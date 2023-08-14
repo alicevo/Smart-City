@@ -1,9 +1,8 @@
 # Smart City - A Mini Project in Java
 
-This project was made for the course CSD207 in the semester of Monsoon 2017.
-The question is as follows,
+This project was made for the course CSD207 in the semester of Monsoon 2017 and is forked from the original project - we are adapting it for our AP CSA Course.
 
-Level 2 – Smart city
+Smart city - Difficulty Level 2 
 You are required to design your own classes, data members and methods for the below description. You would be designing the relationship between the objects yourself.
 1. Design drones that can act as a cop, act as a tourist guide for people touring the city. 
 2. A drone has the capabilities to take pictures/videos of suspected activities and store it for future references. A drone can intimate a cop if any suspected activities are detected.
@@ -15,7 +14,7 @@ You are required to design your own classes, data members and methods for the be
 
 ## Getting Started
 
-I used Eclipse for this project, but you can use any other IDE of your choice.
+The original developer forked fro used Eclipse for this project, but you can use any other IDE of your choice.
 
 ## Dependencies
 
