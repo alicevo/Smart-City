@@ -14,7 +14,7 @@ You are required to design your own classes, data members and methods for the be
 
 ## Getting Started
 
-The original developer forked fro used Eclipse for this project, but you can use any other IDE of your choice.
+The original developer forked from used Eclipse for this project, but you can use any other IDE of your choice.
 
 ## Dependencies
 
